@@ -1,9 +1,5 @@
 <h1 align="center">mightydragon07</h1>
 
-<p align="center">
-  Full-Stack Developer | Scalable Systems | Modern Web Architecture
-</p>
-
 ---
 
 ## About Me
