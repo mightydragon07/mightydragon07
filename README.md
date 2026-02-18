@@ -1,46 +1,65 @@
-<h1 align="right">V_late</h1>
+<h1 align="right">mightydragon07</h1>
 
 ---
+
+<div align="right">
 
 ## // ABOUT ME
 
-I'm a developer who enjoys breaking things to see how they work.  
-Specializing in full-stack architecture and cross-platform ecosystems.  
-Always exploring new frameworks and optimized runtimes.
+Full-stack developer building modern web applications.  
+Passionate about performance, clean architecture, and scalable systems.  
+Always experimenting with new technologies and optimized runtimes.
+
+</div>
 
 ---
 
-## // LANGUAGES
+<div align="right">
+
+## // TECH STACK
+
+</div>
+
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
 
----
-
-## // FRAMEWORKS
+### Frontend
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js)
-![Svelte](https://img.shields.io/badge/Svelte-000?style=for-the-badge&logo=svelte)
-![Solid](https://img.shields.io/badge/Solid-000?style=for-the-badge)
-![Qwik](https://img.shields.io/badge/Qwik-000?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 
----
-
-## // BACKEND
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ---
 
-## // DESKTOP & MOBILE
+<div align="right">
 
-![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=electron)
-![Tauri](https://img.shields.io/badge/Tauri-000?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
+## // STATS
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mightydragon07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mightydragon07&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<div align="right">
+
+Fuel my next commit ☕  
+</div>
