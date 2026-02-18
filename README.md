@@ -1,6 +1,5 @@
 <h1 align="center">mightydragon07</h1>
 
----
 
 ## About Me
 
