@@ -6,13 +6,15 @@
 
 ---
 
-## About
+## About Me
 
-Results-driven full-stack developer focused on building scalable, high-performance web applications. Strong interest in clean architecture, optimized runtimes, and modern development workflows. Experienced in designing and deploying production-ready systems across the full stack.
+I'm a Full-stack developer who mainly builds modern web applications.  
+Passionate about performance, clean architecture, and scalable systems.  
+Always experimenting with new technologies and optimized runtimes.
 
 ---
 
-## Technical Expertise
+## Tech Stack
 
 ### Languages
 
